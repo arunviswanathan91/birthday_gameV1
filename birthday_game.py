@@ -628,4 +628,10 @@ elif st.session_state.game_stage == 'finale':
         Every time zone makes our "good morning" more special.<br>
         Every video call makes my heart skip a beat.<br><br>
         
-        From Thiruvananthapuram 🇮
+        From Thiruvananthapuram 🇮🇳 to Singapore 🇸🇬,<br>
+        With all my love, always 💙<br><br>
+
+        <strong>Happy Birthday, my heart. 🎂💖</strong>
+        </p>
+        </div>
+        """, unsafe_allow_html=True)
